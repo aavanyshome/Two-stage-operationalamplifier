@@ -3,4 +3,4 @@ the schematic consist of one resistor where current can be tracked , NMOS tail c
 i calculated W/L values, fingers and multiplier to get desired gain>70,phase margin~70 and ugb>7.
 As diffrential pair and PMOS current mirror are crucial in opamp, i used matching techniques like interdigitization for current mirror and common centroid for diffrential pair. I also placed both NMOS and PMOS well ring around both of them to avoid noise.
 using calibre i checked the drc and lvs and cleared all the errors.
-did the parasitic extraction.
+the parasitic extraction was done.
