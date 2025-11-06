@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kudsit
+HostName                       c2scadence2.duk.ac.in
+ProcessIdentifier              1072806
+ProcessCreationTime_UTC        1758610305
+ProcessCreationTime_Readable   Tue Sep 23 12:21:45 2025 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/kudsit/180sclprojects/Project1/work_libs/kudsit/cds/grid/opamp/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Tue Sep 23 12:34:19 2025 IST
